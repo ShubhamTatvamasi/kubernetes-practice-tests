@@ -74,15 +74,15 @@ Worker Node Failure | https://katacoda.com/embed/mmumshad2/kubernetes-cka-troubl
 Advanced Kubectl Commands | https://katacoda.com/embed/mmumshad2/kubernetes-cka-kubectl-advanced/
 Kubernetes Challenge - Wordpress | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-challenge-1-wordpress/
 **Mock Exams** | :mortar_board:
-CKAD Practice Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-1/
-CKAD Practice Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-2/
-CKA Practice Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-1/
-CKA Practice Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-2/
-CKA Practice Exam - 3 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-3/
+CKAD Mock Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-1/
+CKAD Mock Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-2/
+CKA Mock Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-1/
+CKA Mock Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-2/
+CKA Mock Exam - 3 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-3/
 **Mock Exam Solutions** | :mortar_board:
-CKAD Practice Exam - 2 Solution | https://fast.wistia.net/embed/iframe/9sc6fspl9r
-CKA Practice Exam - 2 Solution | https://fast.wistia.net/embed/iframe/jzbky0615l
-CKA Practice Exam - 3 Solution | https://fast.wistia.net/embed/iframe/ql06hh3eey
+CKAD Mock Exam - 2 Solution | https://fast.wistia.net/embed/iframe/9sc6fspl9r
+CKA Mock Exam - 2 Solution | https://fast.wistia.net/embed/iframe/jzbky0615l
+CKA Mock Exam - 3 Solution | https://fast.wistia.net/embed/iframe/ql06hh3eey
 
 Reference | URL 
 --- | --- 
