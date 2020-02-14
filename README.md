@@ -79,6 +79,10 @@ CKAD Practice Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ex
 CKA Practice Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-1/
 CKA Practice Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-2/
 CKA Practice Exam - 3 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-3/
+**Mock Exam Solutions** | :mortar_board:
+CKAD Practice Exam - 2 Solution | https://fast.wistia.net/embed/iframe/9sc6fspl9r
+CKA Practice Exam - 2 Solution | https://fast.wistia.net/embed/iframe/jzbky0615l
+CKA Practice Exam - 3 Solution | https://fast.wistia.net/embed/iframe/ql06hh3eey
 
 Reference | URL 
 --- | --- 
