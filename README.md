@@ -59,7 +59,6 @@ Explore Environment | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networ
 Explore CNI Weave 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-20-cni-read-weave/
 Explore CNI Weave 2 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-30-read-weave-2/
 Deploy Network Solution | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-35-deploy-weave/
-Networking Weave | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-30-read-weave-2/
 Service Networking | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-50-service-networking/
 CoreDNS in Kubernetes | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-40-read-dns/
 CKA - Ingress Networking - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ingress/
