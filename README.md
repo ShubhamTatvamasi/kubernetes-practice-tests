@@ -61,8 +61,8 @@ Explore CNI Weave 2 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networ
 Deploy Network Solution | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-35-deploy-weave/
 Service Networking | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-50-service-networking/
 CoreDNS in Kubernetes | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-40-read-dns/
-CKA - Ingress Networking - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ingress/
-CKA - Ingress Networking - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ingress-2-deploy-controller/
+Ingress Networking - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ingress/
+Ingress Networking - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ingress-2-deploy-controller/
 **Install** | :mortar_board:
 Cluster Installation using kubeadm | https://katacoda.com/embed/mmumshad2/kubernetes-cka-cluster-install/
 **Troubleshooting** | :mortar_board:
