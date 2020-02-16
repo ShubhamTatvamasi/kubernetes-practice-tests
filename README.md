@@ -1,12 +1,5 @@
 # kubernetes-practice-tests
 
-### Kubernetes Clusters:
-Nodes | Online Playground
---- | --- 
-2 | https://katacoda.com/embed/shubhamtatvamasi/playground/
-4 | https://katacoda.com/embed/shubhamtatvamasi/playground2/
-> 4 Nodes cluster takes more time to setup
-
 ### Practice Tests:
 Resources | Practice Test Links
 --- | --- 
