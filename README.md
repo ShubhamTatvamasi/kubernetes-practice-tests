@@ -1,6 +1,5 @@
-# kubernetes-practice-tests
+## Practice Tests:
 
-### Practice Tests:
 Resources | Practice Test Links
 --- | --- 
 **Core Concepts** | :mortar_board:
