@@ -63,7 +63,11 @@ Control Plane Failure | https://katacoda.com/embed/mmumshad2/kubernetes-cka-trou
 Worker Node Failure | https://katacoda.com/embed/mmumshad2/kubernetes-cka-troubleshooting-worker-1/
 **Other Topics** | :mortar_board:
 Advanced Kubectl Commands | https://katacoda.com/embed/mmumshad2/kubernetes-cka-kubectl-advanced/
+**Kubernetes Challenges** | :mortar_board:
 Kubernetes Challenge - Wordpress | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-challenge-1-wordpress/
+**Lightning Labs** | :mortar_board:
+Lightning Lab 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab1/
+Lightning Lab 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab2/
 **Mock Exams** | :mortar_board:
 CKAD Mock Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-1/
 CKAD Mock Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-2/
