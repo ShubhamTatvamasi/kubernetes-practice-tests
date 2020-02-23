@@ -3,11 +3,11 @@
 Resources | Practice Test Links
 --- | --- 
 **Core Concepts** | :mortar_board:
-Pods | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-pods/
-ReplicaSets | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-replicasets/
-Deployments | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-deployments/
+Pods | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-pods-new/
+ReplicaSets | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-replicasets-new/
+Deployments | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-deployments-new/
 Namespaces | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-namespaces/
-Services | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-services/
+Services | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-services-new/
 Imperative Commands | https://katacoda.com/embed/mmumshad2/kubernetes-cka-imperative-1/
 **Scheduling** | :mortar_board:
 Manual Scheduling | https://katacoda.com/embed/mmumshad2/kubernetes-cka-scheduler-manual/
