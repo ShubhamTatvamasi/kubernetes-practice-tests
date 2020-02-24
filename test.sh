@@ -14,9 +14,9 @@ do
   test_url=$(curl -s ${url} | html2text | tail -n3)
 
   if [ "${scenario_not_found}" != "${test_url}" ]; then
-      echo -e "\033[0;32mTest Passed ${test_number} : ${url##*2/} "
+      echo -e "\033[0;32mTest Passed ${test_number} : ${url##*2/}"
   else
-      echo -e "\033[0;31mTest failed ${test_number} : ${url##*2/} "
+      echo -e "\033[0;31mTest failed ${test_number} : ${url##*2/}"
       exit_status=1
   fi
 
