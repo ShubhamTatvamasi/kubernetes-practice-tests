@@ -1,4 +1,4 @@
-name: Test URLs
+name: URL Test
 
 on: [push]
 
@@ -11,5 +11,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install html2text
       run: sudo apt-get install -y html2text
-    - name: Test URLs
+    - name: URL Test
       run: ./test.sh
