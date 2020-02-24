@@ -9,5 +9,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Install html2text
+      run: sudo apt-get install -y html2text
     - name: Test if all URLs are active
       run: ./test.sh
