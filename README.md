@@ -1,4 +1,4 @@
-# Kubernetes Practice Tests [![Test URLs](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/workflows/URL%20Test/badge.svg)](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/actions)
+# Kubernetes Practice Tests [![Test URL](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/workflows/URL%20Test/badge.svg)](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/actions)
 
 Resources | Practice Test Links
 --- | --- 
