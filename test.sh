@@ -5,13 +5,13 @@ test_number=0
 
 scenario_not_found=$(curl -s \
 https://katacoda.com/embed/mmumshad2/scenario-not-found \
-| html2text | tail -n3)
+| html2text | tail -3 | head -1)
 
 while read url
 do
 
   let "test_number++"
-  test_url=$(curl -s ${url} | html2text | tail -n3)
+  test_url=$(curl -s ${url} | html2text | tail -3 | head -1)
 
   if [ "${scenario_not_found}" != "${test_url}" ]; then
       echo -e "\033[0;32mTest Passed ${test_number} : ${url##*2/}"
