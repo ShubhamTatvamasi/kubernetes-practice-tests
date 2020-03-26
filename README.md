@@ -66,8 +66,9 @@ Advanced Kubectl Commands | https://katacoda.com/embed/mmumshad2/kubernetes-cka-
 **Kubernetes Challenges** | :mortar_board:
 Kubernetes Challenge - Wordpress | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-challenge-1-wordpress
 **Lightning Labs** | :mortar_board:
-Lightning Lab 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab1
-Lightning Lab 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab2
+CKAD Lightning Lab 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab1
+CKAD Lightning Lab 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab2
+CKA Lightning Lab 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-lightning-lab-1
 **Mock Exams** | :mortar_board:
 CKAD Mock Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-1
 CKAD Mock Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-2
