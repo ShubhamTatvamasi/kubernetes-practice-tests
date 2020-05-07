@@ -1,5 +1,7 @@
 # Kubernetes Practice Tests [![URL Test](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/workflows/URL%20Test/badge.svg)](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/actions)
 
+> Note: don't use any ad blockers or links won't work.
+
 Resources | Practice Test Links
 --- | --- 
 **Core Concepts** | :mortar_board:
