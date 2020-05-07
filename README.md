@@ -1,12 +1,5 @@
 # Kubernetes Practice Tests [![URL Test](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/workflows/URL%20Test/badge.svg)](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/actions)
 
-You have to paste this code in your browser console, for Tests to work.
-```javascript
-course.view = new TerminalViewLayout(); course.view.init();
-setTimeout(function(){ document.getElementById("intro").remove(); }, 30000);
-```
-> wait for 30 seconds, "START SCENARIO" button won't work.
-
 Resources | Practice Test Links
 --- | --- 
 **Core Concepts** | :mortar_board:
