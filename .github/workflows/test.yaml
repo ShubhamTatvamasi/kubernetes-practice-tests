@@ -1,4 +1,4 @@
-name: URL Test
+name: Scenario Test
 
 on: 
   push:
@@ -19,5 +19,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install html2text
       run: sudo apt install -y html2text
-    - name: URL Test
+    - name: Scenario Tests
       run: ./test.sh
