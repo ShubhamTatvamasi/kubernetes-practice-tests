@@ -5,78 +5,78 @@
 Resources | Practice Test Links
 --- | --- 
 **Core Concepts** | :mortar_board:
-Pods | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-pods-new/?embed&url&host=kodekloud.com
-ReplicaSets | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-replicasets-new/?embed&url&host=kodekloud.com
-Deployments | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-deployments-new/?embed&url&host=kodekloud.com
-Namespaces | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-namespaces/?embed&url&host=kodekloud.com
-Services | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-services-new/?embed&url&host=kodekloud.com
-Imperative Commands | https://katacoda.com/embed/mmumshad2/kubernetes-cka-imperative-1/?embed&url&host=kodekloud.com
+Pods | kubernetes-for-beginners-pods-new
+ReplicaSets | kubernetes-for-beginners-replicasets-new
+Deployments | kubernetes-for-beginners-deployments-new
+Namespaces | kubernetes-ckad-namespaces
+Services | kubernetes-for-beginners-services-new
+Imperative Commands | kubernetes-cka-imperative-1
 **Scheduling** | :mortar_board:
-Manual Scheduling | https://katacoda.com/embed/mmumshad2/kubernetes-cka-scheduler-manual/?embed&url&host=kodekloud.com
-Readiness and Liveness Probes | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-readiness-probe/?embed&url&host=kodekloud.com
-Labels & Selectors | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-labels-selectors/?embed&url&host=kodekloud.com
-Taints and Tolerations | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-taints-tolerations/?embed&url&host=kodekloud.com
-Node Affinity | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-node-affinity/?embed&url&host=kodekloud.com
-Resource Limits | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-resource-limits/?embed&url&host=kodekloud.com
-Service Account | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-serviceaccounts/?embed&url&host=kodekloud.com
-DaemonSets | https://katacoda.com/embed/mmumshad2/kubernetes-cka-scheduler-daemonset/?embed&url&host=kodekloud.com
-Static PODs | https://katacoda.com/embed/mmumshad2/kubernetes-cka-scheduler-staticpods/?embed&url&host=kodekloud.com
-Multiple Schedulers | https://katacoda.com/embed/mmumshad2/kubernetes-cka-scheduler-multiple/?embed&url&host=kodekloud.com
+Manual Scheduling | kubernetes-cka-scheduler-manual
+Readiness and Liveness Probes | kubernetes-ckad-readiness-probe
+Labels & Selectors | kubernetes-ckad-labels-selectors
+Taints and Tolerations | kubernetes-ckad-taints-tolerations
+Node Affinity | kubernetes-ckad-node-affinity
+Resource Limits | kubernetes-ckad-resource-limits
+Service Account | kubernetes-ckad-serviceaccounts
+DaemonSets | kubernetes-cka-scheduler-daemonset
+Static PODs | kubernetes-cka-scheduler-staticpods
+Multiple Schedulers | kubernetes-cka-scheduler-multiple
 **Logging & Monitoring** | :mortar_board:
-Monitor Cluster Components | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-monitoring/?embed&url&host=kodekloud.com
-Managing Application Logs | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-logging/?embed&url&host=kodekloud.com
+Monitor Cluster Components | kubernetes-ckad-monitoring
+Managing Application Logs | kubernetes-ckad-logging
 **Application Lifecycle Management** | :mortar_board:
-Rolling Updates and Rollbacks | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-rolling-rollbacks-updates/?embed&url&host=kodekloud.com
-Jobs and CronJobs | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-jobs-cronjobs/?embed&url&host=kodekloud.com
-Commands and Arguments | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-commands-args/?embed&url&host=kodekloud.com
-Environment Variables and ConfigMaps | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-env-vars/?embed&url&host=kodekloud.com
-Secrets | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-secrets/?embed&url&host=kodekloud.com
-Multi-Container Pods | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-multi-container-pods/?embed&url&host=kodekloud.com
-Init Containers | https://katacoda.com/embed/mmumshad2/kubernetes-cka-init-containers/?embed&url&host=kodekloud.com
+Rolling Updates and Rollbacks | kubernetes-ckad-rolling-rollbacks-updates
+Jobs and CronJobs | kubernetes-ckad-jobs-cronjobs
+Commands and Arguments | kubernetes-ckad-commands-args
+Environment Variables and ConfigMaps | kubernetes-ckad-env-vars
+Secrets | kubernetes-ckad-secrets
+Multi-Container Pods | kubernetes-ckad-multi-container-pods
+Init Containers | kubernetes-cka-init-containers
 **Cluster Maintenance** | :mortar_board:
-OS Upgrades | https://katacoda.com/embed/mmumshad2/kubernetes-cka-cluster-maintenance-node/?embed&url&host=kodekloud.com
-Cluster Upgrade Process | https://katacoda.com/embed/mmumshad2/kubernetes-cka-cluster-upgrade/?embed&url&host=kodekloud.com
-Backup and Restore Methods | https://katacoda.com/embed/mmumshad2/kubernetes-cka-backup-etcd/?embed&url&host=kodekloud.com
+OS Upgrades | kubernetes-cka-cluster-maintenance-node
+Cluster Upgrade Process | kubernetes-cka-cluster-upgrade
+Backup and Restore Methods | kubernetes-cka-backup-etcd
 **Security** | :mortar_board:
-View Certificate Details | https://katacoda.com/embed/mmumshad2/kubernetes-cka-security-tls-1-read-certs/?embed&url&host=kodekloud.com
-Certificates API | https://katacoda.com/embed/mmumshad2/kubernetes-cka-security-certificates-api/?embed&url&host=kodekloud.com
-KubeConfig | https://katacoda.com/embed/mmumshad2/kubernetes-cka-security-kubeconfig/?embed&url&host=kodekloud.com
-Role Based Access Controls | https://katacoda.com/embed/mmumshad2/kubernetes-cka-security-authorization-rbac/?embed&url&host=kodekloud.com
-Cluster Roles | https://katacoda.com/embed/mmumshad2/kubernetes-cka-security-authorization-clusterroles/?embed&url&host=kodekloud.com
-Image Security | https://katacoda.com/embed/mmumshad2/kubernetes-cka-security-image-security/?embed&url&host=kodekloud.com
-Security Contexts | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-security-contexts/?embed&url&host=kodekloud.com
-Network Policies | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-network-policies/?embed&url&host=kodekloud.com
+View Certificate Details | kubernetes-cka-security-tls-1-read-certs
+Certificates API | kubernetes-cka-security-certificates-api
+KubeConfig | kubernetes-cka-security-kubeconfig
+Role Based Access Controls | kubernetes-cka-security-authorization-rbac
+Cluster Roles | kubernetes-cka-security-authorization-clusterroles
+Image Security | kubernetes-cka-security-image-security
+Security Contexts | kubernetes-ckad-security-contexts
+Network Policies | kubernetes-ckad-network-policies
 **Storage** | :mortar_board:
-Persistent Volume Claims | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-persistent-volumes/?embed&url&host=kodekloud.com
+Persistent Volume Claims | kubernetes-ckad-persistent-volumes
 **Networking** | :mortar_board:
-Explore Environment | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-10-read-env/?embed&url&host=kodekloud.com
-Explore CNI Weave 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-20-cni-read-weave/?embed&url&host=kodekloud.com
-Explore CNI Weave 2 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-30-read-weave-2/?embed&url&host=kodekloud.com
-Deploy Network Solution | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-35-deploy-weave/?embed&url&host=kodekloud.com
-Service Networking | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-50-service-networking/?embed&url&host=kodekloud.com
-CoreDNS in Kubernetes | https://katacoda.com/embed/mmumshad2/kubernetes-cka-networking-40-read-dns/?embed&url&host=kodekloud.com
-Ingress Networking - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ingress/?embed&url&host=kodekloud.com
-Ingress Networking - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-ingress-2-deploy-controller/?embed&url&host=kodekloud.com
+Explore Environment | kubernetes-cka-networking-10-read-env
+Explore CNI Weave 1 | kubernetes-cka-networking-20-cni-read-weave
+Explore CNI Weave 2 | kubernetes-cka-networking-30-read-weave-2
+Deploy Network Solution | kubernetes-cka-networking-35-deploy-weave
+Service Networking | kubernetes-cka-networking-50-service-networking
+CoreDNS in Kubernetes | kubernetes-cka-networking-40-read-dns
+Ingress Networking - 1 | kubernetes-ckad-ingress
+Ingress Networking - 2 | kubernetes-ckad-ingress-2-deploy-controller
 **Install** | :mortar_board:
-Cluster Installation using kubeadm | https://katacoda.com/embed/mmumshad2/kubernetes-cka-cluster-install/?embed&url&host=kodekloud.com
+Cluster Installation using kubeadm | kubernetes-cka-cluster-install
 **Troubleshooting** | :mortar_board:
-Application Failure | https://katacoda.com/embed/mmumshad2/kubernetes-cka-troubleshooting-app-1/?embed&url&host=kodekloud.com
-Control Plane Failure | https://katacoda.com/embed/mmumshad2/kubernetes-cka-troubleshooting-cluster-1/?embed&url&host=kodekloud.com
-Worker Node Failure | https://katacoda.com/embed/mmumshad2/kubernetes-cka-troubleshooting-worker-1/?embed&url&host=kodekloud.com
+Application Failure | kubernetes-cka-troubleshooting-app-1
+Control Plane Failure | kubernetes-cka-troubleshooting-cluster-1
+Worker Node Failure | kubernetes-cka-troubleshooting-worker-1
 **Other Topics** | :mortar_board:
-Advanced Kubectl Commands | https://katacoda.com/embed/mmumshad2/kubernetes-cka-kubectl-advanced/?embed&url&host=kodekloud.com
+Advanced Kubectl Commands | kubernetes-cka-kubectl-advanced
 **Kubernetes Challenges** | :mortar_board:
-Kubernetes Challenge - Wordpress | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-challenge-1-wordpress/?embed&url&host=kodekloud.com
+Kubernetes Challenge - Wordpress | kubernetes-ckad-challenge-1-wordpress
 **Lightning Labs** | :mortar_board:
-CKAD Lightning Lab 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab1/?embed&url&host=kodekloud.com
-CKAD Lightning Lab 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-lightning-lab2/?embed&url&host=kodekloud.com
-CKA Lightning Lab 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-lightning-lab-1/?embed&url&host=kodekloud.com
+CKAD Lightning Lab 1 | kubernetes-ckad-lightning-lab1
+CKAD Lightning Lab 2 | kubernetes-ckad-lightning-lab2
+CKA Lightning Lab 1 | kubernetes-cka-lightning-lab-1
 **Mock Exams** | :mortar_board:
-CKAD Mock Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-1/?embed&url&host=kodekloud.com
-CKAD Mock Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-ckad-exam-2/?embed&url&host=kodekloud.com
-CKA Mock Exam - 1 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-1/?embed&url&host=kodekloud.com
-CKA Mock Exam - 2 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-2/?embed&url&host=kodekloud.com
-CKA Mock Exam - 3 | https://katacoda.com/embed/mmumshad2/kubernetes-cka-exam-3/?embed&url&host=kodekloud.com
+CKAD Mock Exam - 1 | kubernetes-ckad-exam-1
+CKAD Mock Exam - 2 | kubernetes-ckad-exam-2
+CKA Mock Exam - 1 | kubernetes-cka-exam-1
+CKA Mock Exam - 2 | kubernetes-cka-exam-2
+CKA Mock Exam - 3 | kubernetes-cka-exam-3
 **Mock Exam Solutions** | :mortar_board:
 CKAD Mock Exam - 2 Solution | https://fast.wistia.net/embed/iframe/9sc6fspl9r
 CKA Mock Exam - 2 Solution | https://fast.wistia.net/embed/iframe/jzbky0615l
