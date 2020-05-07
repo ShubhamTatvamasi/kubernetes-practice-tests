@@ -5,78 +5,78 @@
 Resources | Practice Test Links
 --- | --- 
 **Core Concepts** | :mortar_board:
-Pods | kubernetes-for-beginners-pods-new
-ReplicaSets | kubernetes-for-beginners-replicasets-new
-Deployments | kubernetes-for-beginners-deployments-new
-Namespaces | kubernetes-ckad-namespaces
-Services | kubernetes-for-beginners-services-new
-Imperative Commands | kubernetes-cka-imperative-1
+Pods | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-for-beginners-pods-new
+ReplicaSets | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-for-beginners-replicasets-new
+Deployments | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-for-beginners-deployments-new
+Namespaces | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-namespaces
+Services | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-for-beginners-services-new
+Imperative Commands | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-imperative-1
 **Scheduling** | :mortar_board:
-Manual Scheduling | kubernetes-cka-scheduler-manual
-Readiness and Liveness Probes | kubernetes-ckad-readiness-probe
-Labels & Selectors | kubernetes-ckad-labels-selectors
-Taints and Tolerations | kubernetes-ckad-taints-tolerations
-Node Affinity | kubernetes-ckad-node-affinity
-Resource Limits | kubernetes-ckad-resource-limits
-Service Account | kubernetes-ckad-serviceaccounts
-DaemonSets | kubernetes-cka-scheduler-daemonset
-Static PODs | kubernetes-cka-scheduler-staticpods
-Multiple Schedulers | kubernetes-cka-scheduler-multiple
+Manual Scheduling | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-scheduler-manual
+Readiness and Liveness Probes | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-readiness-probe
+Labels & Selectors | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-labels-selectors
+Taints and Tolerations | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-taints-tolerations
+Node Affinity | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-node-affinity
+Resource Limits | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-resource-limits
+Service Account | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-serviceaccounts
+DaemonSets | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-scheduler-daemonset
+Static PODs | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-scheduler-staticpods
+Multiple Schedulers | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-scheduler-multiple
 **Logging & Monitoring** | :mortar_board:
-Monitor Cluster Components | kubernetes-ckad-monitoring
-Managing Application Logs | kubernetes-ckad-logging
+Monitor Cluster Components | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-monitoring
+Managing Application Logs | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-logging
 **Application Lifecycle Management** | :mortar_board:
-Rolling Updates and Rollbacks | kubernetes-ckad-rolling-rollbacks-updates
-Jobs and CronJobs | kubernetes-ckad-jobs-cronjobs
-Commands and Arguments | kubernetes-ckad-commands-args
-Environment Variables and ConfigMaps | kubernetes-ckad-env-vars
-Secrets | kubernetes-ckad-secrets
-Multi-Container Pods | kubernetes-ckad-multi-container-pods
-Init Containers | kubernetes-cka-init-containers
+Rolling Updates and Rollbacks | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-rolling-rollbacks-updates
+Jobs and CronJobs | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-jobs-cronjobs
+Commands and Arguments | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-commands-args
+Environment Variables and ConfigMaps | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-env-vars
+Secrets | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-secrets
+Multi-Container Pods | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-multi-container-pods
+Init Containers | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-init-containers
 **Cluster Maintenance** | :mortar_board:
-OS Upgrades | kubernetes-cka-cluster-maintenance-node
-Cluster Upgrade Process | kubernetes-cka-cluster-upgrade
-Backup and Restore Methods | kubernetes-cka-backup-etcd
+OS Upgrades | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-cluster-maintenance-node
+Cluster Upgrade Process | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-cluster-upgrade
+Backup and Restore Methods | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-backup-etcd
 **Security** | :mortar_board:
-View Certificate Details | kubernetes-cka-security-tls-1-read-certs
-Certificates API | kubernetes-cka-security-certificates-api
-KubeConfig | kubernetes-cka-security-kubeconfig
-Role Based Access Controls | kubernetes-cka-security-authorization-rbac
-Cluster Roles | kubernetes-cka-security-authorization-clusterroles
-Image Security | kubernetes-cka-security-image-security
-Security Contexts | kubernetes-ckad-security-contexts
-Network Policies | kubernetes-ckad-network-policies
+View Certificate Details | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-security-tls-1-read-certs
+Certificates API | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-security-certificates-api
+KubeConfig | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-security-kubeconfig
+Role Based Access Controls | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-security-authorization-rbac
+Cluster Roles | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-security-authorization-clusterroles
+Image Security | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-security-image-security
+Security Contexts | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-security-contexts
+Network Policies | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-network-policies
 **Storage** | :mortar_board:
-Persistent Volume Claims | kubernetes-ckad-persistent-volumes
+Persistent Volume Claims | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-persistent-volumes
 **Networking** | :mortar_board:
-Explore Environment | kubernetes-cka-networking-10-read-env
-Explore CNI Weave 1 | kubernetes-cka-networking-20-cni-read-weave
-Explore CNI Weave 2 | kubernetes-cka-networking-30-read-weave-2
-Deploy Network Solution | kubernetes-cka-networking-35-deploy-weave
-Service Networking | kubernetes-cka-networking-50-service-networking
-CoreDNS in Kubernetes | kubernetes-cka-networking-40-read-dns
-Ingress Networking - 1 | kubernetes-ckad-ingress
-Ingress Networking - 2 | kubernetes-ckad-ingress-2-deploy-controller
+Explore Environment | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-networking-10-read-env
+Explore CNI Weave 1 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-networking-20-cni-read-weave
+Explore CNI Weave 2 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-networking-30-read-weave-2
+Deploy Network Solution | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-networking-35-deploy-weave
+Service Networking | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-networking-50-service-networking
+CoreDNS in Kubernetes | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-networking-40-read-dns
+Ingress Networking - 1 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-ingress
+Ingress Networking - 2 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-ingress-2-deploy-controller
 **Install** | :mortar_board:
-Cluster Installation using kubeadm | kubernetes-cka-cluster-install
+Cluster Installation using kubeadm | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-cluster-install
 **Troubleshooting** | :mortar_board:
-Application Failure | kubernetes-cka-troubleshooting-app-1
-Control Plane Failure | kubernetes-cka-troubleshooting-cluster-1
-Worker Node Failure | kubernetes-cka-troubleshooting-worker-1
+Application Failure | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-troubleshooting-app-1
+Control Plane Failure | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-troubleshooting-cluster-1
+Worker Node Failure | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-troubleshooting-worker-1
 **Other Topics** | :mortar_board:
-Advanced Kubectl Commands | kubernetes-cka-kubectl-advanced
+Advanced Kubectl Commands | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-kubectl-advanced
 **Kubernetes Challenges** | :mortar_board:
-Kubernetes Challenge - Wordpress | kubernetes-ckad-challenge-1-wordpress
+Kubernetes Challenge - Wordpress | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-challenge-1-wordpress
 **Lightning Labs** | :mortar_board:
-CKAD Lightning Lab 1 | kubernetes-ckad-lightning-lab1
-CKAD Lightning Lab 2 | kubernetes-ckad-lightning-lab2
-CKA Lightning Lab 1 | kubernetes-cka-lightning-lab-1
+CKAD Lightning Lab 1 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-lightning-lab1
+CKAD Lightning Lab 2 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-lightning-lab2
+CKA Lightning Lab 1 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-lightning-lab-1
 **Mock Exams** | :mortar_board:
-CKAD Mock Exam - 1 | kubernetes-ckad-exam-1
-CKAD Mock Exam - 2 | kubernetes-ckad-exam-2
-CKA Mock Exam - 1 | kubernetes-cka-exam-1
-CKA Mock Exam - 2 | kubernetes-cka-exam-2
-CKA Mock Exam - 3 | kubernetes-cka-exam-3
+CKAD Mock Exam - 1 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-exam-1
+CKAD Mock Exam - 2 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-ckad-exam-2
+CKA Mock Exam - 1 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-exam-1
+CKA Mock Exam - 2 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-exam-2
+CKA Mock Exam - 3 | https://shubhamtatvamasi.com/kubernetes-practice-tests/?scenario=kubernetes-cka-exam-3
 **Mock Exam Solutions** | :mortar_board:
 CKAD Mock Exam - 2 Solution | https://fast.wistia.net/embed/iframe/9sc6fspl9r
 CKA Mock Exam - 2 Solution | https://fast.wistia.net/embed/iframe/jzbky0615l
