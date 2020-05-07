@@ -4,7 +4,7 @@ exit_status=0
 test_number=0
 
 scenario_not_found=$(curl -s \
-  https://katacoda.com/embed/mmumshad2/scenario-not-found/?embed&url&host=kodekloud.com \
+  "https://katacoda.com/embed/mmumshad2/scenario-not-found/?embed&url&host=kodekloud.com" \
   | html2text | tail -3 | head -1)
 
 while read url
