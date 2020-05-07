@@ -1,4 +1,4 @@
-# Kubernetes Practice Tests [![URL Test](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/workflows/Scenario%20Test/badge.svg)](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/actions)
+# Kubernetes Practice Tests [![Scenario Tests](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/workflows/Scenario%20Tests/badge.svg)](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests/actions)
 
 > Note: don't use any ad blockers or links won't work.
 

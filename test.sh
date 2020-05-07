@@ -4,7 +4,7 @@ exit_status=0
 test_number=0
 
 function generate_nonce {
-  curl -s "https://katacoda.com/api/embed/nonce?host=kodekloud.com"
+  curl -s "https://katacoda.com/api/embed/nonce"
 }
 
 author="https://katacoda.com/embed/mmumshad2/"

@@ -1,4 +1,4 @@
-name: Scenario Test
+name: Scenario Tests
 
 on: 
   push:
