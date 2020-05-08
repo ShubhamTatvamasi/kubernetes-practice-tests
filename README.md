@@ -9,7 +9,7 @@ let scenario = "kubernetes-for-beginners-pods-new"
 let response = await fetch("https://katacoda.com/api/embed/nonce");
 let nonce = await response.text();
 let author = "https://katacoda.com/embed/mmumshad2/"
-let flags = "?embed&url&host=kodekloud.com&nonce="
+let flags = "?host=kodekloud.com&nonce="
 let scenario_url = author + scenario + flags + nonce
 window.open(scenario_url, '_blank');
 ```
