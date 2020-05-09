@@ -1,6 +1,6 @@
 # Kubernetes Practice Tests 
 
-Go to https://kodekloud.com/404 and wait till page is loaded, then open DevTools console tab, paste the script.
+Go to https://kodekloud.com/courses/675080/lectures/12038860 and wait till page is loaded, then open DevTools console tab, paste the script.
 
 Update scenario based on your needs
 ```javascript
