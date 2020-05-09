@@ -20,7 +20,7 @@ Once scenario is opened, you have to paste this code in your browser console, fo
 course.view = new TerminalViewLayout(); course.view.init();
 setTimeout(()=>{ document.getElementById("intro").remove(); }, 30000);
 ```
-> wait for 30 seconds, "START SCENARIO" button won't work.
+> Note: wait for 30 seconds, "START SCENARIO" button won't work.
 
 Resources | Scenarios
 --- | --- 
