@@ -11,11 +11,11 @@ let nonce = await response.text();
 let author = "https://katacoda.com/embed/mmumshad2/"
 let flags = "?host=kodekloud.com&nonce="
 let scenario_url = author + scenario + flags + nonce
-window.open(scenario_url, '_blank');
+window.location = scenario_url
 ```
 > Note: don't use any ad blockers or links won't work.
 
-Once scenario is opened in new tab, you have to paste this code in your browser console, for Tests to Start.
+Once scenario is opened, you have to paste this code in your browser console, for Tests to Start.
 ```javascript
 course.view = new TerminalViewLayout(); course.view.init();
 setTimeout(()=>{ document.getElementById("intro").remove(); }, 30000);
