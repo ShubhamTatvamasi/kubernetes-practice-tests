@@ -15,6 +15,13 @@ window.open(scenario_url, '_blank');
 ```
 > Note: don't use any ad blockers or links won't work.
 
+Once scenario is opened in new window, you have to paste this code in your browser console, for Tests to work.
+```javascript
+course.view = new TerminalViewLayout(); course.view.init();
+setTimeout(()=>{ document.getElementById("intro").remove(); }, 30000);
+```
+> wait for 30 seconds, "START SCENARIO" button won't work.
+
 Resources | Scenarios
 --- | --- 
 **Core Concepts** | :mortar_board:
