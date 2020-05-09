@@ -1,26 +1,16 @@
 # Kubernetes Practice Tests 
 
-Go to https://kodekloud.com open DevTools console tab, paste the script.
+Go to https://kodekloud.com/404 open DevTools console tab, paste the script.
 
 Update scenario based on your needs
 ```javascript
 let scenario = "kubernetes-for-beginners-pods-new"
 
-let response = await fetch("https://katacoda.com/api/embed/nonce");
-let nonce = await response.text();
-let author = "https://katacoda.com/embed/mmumshad2/"
-let flags = "?host=kodekloud.com&nonce="
-let scenario_url = author + scenario + flags + nonce
-window.location = scenario_url
+document.open();
+document.write('<body style="margin: 0;"><script src="//katacoda.com/embed.js"></script><div data-katacoda-id="mmumshad2/' + scenario + '" style="height: auto;"></div></body>');
+document.close();
 ```
 > Note: don't use any ad blockers or links won't work.
-
-Once scenario is opened, you have to paste this code in your browser console, for Tests to Start.
-```javascript
-course.view = new TerminalViewLayout(); course.view.init();
-setTimeout(()=>{ document.getElementById("intro").remove(); }, 30000);
-```
-> Note: wait for 30 seconds, "START SCENARIO" button won't work.
 
 Resources | Scenarios
 --- | --- 
