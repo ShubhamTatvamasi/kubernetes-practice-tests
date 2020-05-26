@@ -7,7 +7,7 @@ Update scenario based on your needs
 let scenario = "kubernetes-for-beginners-pods-new"
 
 document.open();
-document.write('<body style="margin: 0;"><script src="//katacoda.com/embed.js"></script><div data-katacoda-id="mmumshad2/' + scenario + '" style="height: auto;"></div></body>');
+document.write('<body style="margin: 0;"><script src="//katacoda.com/embed.js"></script><div data-katacoda-userid="RQc5rmZGdGImZmRZtoZm0gSyy8JTkBdx3F6FuM6q90IuyT" data-katacoda-id="mmumshad2/' + scenario + '" style="height: auto;"></div></body>');
 document.close();
 ```
 > Note: don't use any ad blockers or links won't work.
